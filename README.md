@@ -1,4 +1,4 @@
-Creative-Points
+Custom Whitelist
 ===============
 
 Bukkit plugin written in Python, run by PyPlugin loader by Brord van Wierst.
